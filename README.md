@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankanroy911
-- 👀 I’m interested in Android Dev.
+- 👀 I’m interested in Machine Learning and AI.
 - 🌱 I’m currently learning python with ML
 - 📫 How to reach me - royankan911@gmail.com
 - 😄 Pronouns: His
